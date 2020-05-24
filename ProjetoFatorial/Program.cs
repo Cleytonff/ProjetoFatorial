@@ -2,6 +2,7 @@
 
 namespace ProjetoFatorial
 {
+    //Comentario incluido
     class Program
     {
         static void Main(string[] args)
