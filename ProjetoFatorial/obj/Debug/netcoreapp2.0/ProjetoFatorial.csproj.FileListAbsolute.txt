@@ -1,0 +1,10 @@
+/Users/cleytonferreirafranco/Projects/devmedia/git/ProjetoFatorial/ProjetoFatorial/bin/Debug/netcoreapp2.0/ProjetoFatorial.deps.json
+/Users/cleytonferreirafranco/Projects/devmedia/git/ProjetoFatorial/ProjetoFatorial/bin/Debug/netcoreapp2.0/ProjetoFatorial.runtimeconfig.json
+/Users/cleytonferreirafranco/Projects/devmedia/git/ProjetoFatorial/ProjetoFatorial/bin/Debug/netcoreapp2.0/ProjetoFatorial.runtimeconfig.dev.json
+/Users/cleytonferreirafranco/Projects/devmedia/git/ProjetoFatorial/ProjetoFatorial/bin/Debug/netcoreapp2.0/ProjetoFatorial.dll
+/Users/cleytonferreirafranco/Projects/devmedia/git/ProjetoFatorial/ProjetoFatorial/bin/Debug/netcoreapp2.0/ProjetoFatorial.pdb
+/Users/cleytonferreirafranco/Projects/devmedia/git/ProjetoFatorial/ProjetoFatorial/obj/Debug/netcoreapp2.0/ProjetoFatorial.csproj.CoreCompileInputs.cache
+/Users/cleytonferreirafranco/Projects/devmedia/git/ProjetoFatorial/ProjetoFatorial/obj/Debug/netcoreapp2.0/ProjetoFatorial.AssemblyInfoInputs.cache
+/Users/cleytonferreirafranco/Projects/devmedia/git/ProjetoFatorial/ProjetoFatorial/obj/Debug/netcoreapp2.0/ProjetoFatorial.AssemblyInfo.cs
+/Users/cleytonferreirafranco/Projects/devmedia/git/ProjetoFatorial/ProjetoFatorial/obj/Debug/netcoreapp2.0/ProjetoFatorial.dll
+/Users/cleytonferreirafranco/Projects/devmedia/git/ProjetoFatorial/ProjetoFatorial/obj/Debug/netcoreapp2.0/ProjetoFatorial.pdb
